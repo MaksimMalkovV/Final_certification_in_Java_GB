@@ -10,13 +10,13 @@ public class Program {
         
         
         // Создание объектов "Игрушки"
-        Toy bear = new Toy(1, "Bear", 25);
-        Toy car = new Toy(2, "Car", 40);
-        Toy cubes = new Toy(3, "Cubes", 36.5);
-        Toy lego = new Toy(4, "Lego", 36.3);
-        Toy balloons = new Toy(5, "Balloons", 12.8);
-        Toy ball = new Toy(6, "Ball", 58.2);
-        Toy sword = new Toy(7, "Sword", 19);
+        Toy bear = new Toy(1, "Плюшевый медведь", 25);
+        Toy car = new Toy(2, "Машинка", 40);
+        Toy cubes = new Toy(3, "Кубики", 36.5);
+        Toy lego = new Toy(4, "Лего", 36.3);
+        Toy balloons = new Toy(5, "Шарики", 12.8);
+        Toy ball = new Toy(6, "Мяч", 58.2);
+        Toy sword = new Toy(7, "Меч", 19);
 
         List<Toy> toys = new ArrayList<Toy>();
         toys.add(bear);
